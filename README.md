@@ -234,9 +234,19 @@ leaderboard/
 ├── Dockerfile                     # Docker image configuration
 ├── init-db.sql                    # Database initialization script
 ├── package.json                   # Dependencies and scripts
+├── package-lock.json              # Dependency lock file
 ├── tsconfig.json                  # TypeScript configuration
 ├── nest-cli.json                  # NestJS CLI configuration
-└── README.md                      # This file
+├── setup.sh                       # Setup script for Unix/Linux
+├── setup.bat                      # Setup script for Windows
+├── postman_collection.json        # Postman API collection
+├── README.md                      # Main documentation
+├── API_EXAMPLES.md                # API usage examples
+├── CODE_WALKTHROUGH.md            # Detailed code explanations
+├── DEPLOYMENT.md                  # Deployment guide
+├── PROJECT_EXPLANATION.md         # Project overview
+├── PROJECT_SUMMARY.md             # Quick summary
+└── QUICKSTART.md                  # Quick start guide
 ```
 
 ## 🚀 Getting Started
